@@ -8,7 +8,7 @@
 
 - ▶️ Desire to demonstrate commitment and motivation to learn and grow in my career.
 
-- 💬 Ask me about **JavaScript, HTML, CSS, SQL, PHP, Laravel**
+- 💬 Ask me about **JavaScript, HTML, CSS, PHP, Laravel**
 
 - ⚡ Although I took a break from programming for five years, I never lost my passion for the field. In fact, this hiatus has only fueled my determination to overcome challenges and grow as a developer.
 
