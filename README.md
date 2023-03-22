@@ -1,4 +1,4 @@
-<img align="right" height="500em" src="https://github.com/hiagodrigo/hiagodrigo/blob/main/Git%20Profile%20Picture.png" style="border-radius: 50%" />
+<img align="right" height="300em" src="https://github.com/hiagodrigo/hiagodrigo/blob/main/Git%20Profile%20Picture.png" style="border-radius: 50%" />
 <h1 align="left">Hi <img src="https://i.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.webp" height="35px">, I'm Hiago Drigo</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hiagodrigo&color=yellow" alt="Profile views" /> </p>
 
